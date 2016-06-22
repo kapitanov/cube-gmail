@@ -1,0 +1,9 @@
+{
+    "cube"          : "PUT YOUR COM PORT OR 'AUTO'",
+    "addr"          : "PUT YOUR IMAP SERVER HERE",
+    "username"      : "PUT YOUR LOGIN HERE",
+    "password"      : "PUT YOUR PASSWORD HERE",
+    "label"         : "PUT YOUR LABEL NAME OR 'INBOX'",
+    "green-if-more" : 0,
+    "red-if-more"   : 1
+}
